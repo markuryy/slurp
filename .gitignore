@@ -13,4 +13,4 @@ Packages/
 
 # macOS
 .DS_Store
-Slurp.dmg
+*.dmg
