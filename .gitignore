@@ -1,0 +1,15 @@
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Build
+build/
+DerivedData/
+
+# Dependencies
+Packages/
+.build/
+
+# macOS
+.DS_Store
