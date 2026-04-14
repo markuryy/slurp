@@ -1,6 +1,7 @@
 # Slurp
 
 Slurps video and audio from a UVC capture card and spits it out on your screen.
+![Screenshot showing Slurp's overlay on a game capture](images/nxdemo.png)
 
 ## Requirements
 
