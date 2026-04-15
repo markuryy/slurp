@@ -5,7 +5,7 @@ struct OverlayView: View {
 
     var body: some View {
         HStack(spacing: 12) {
-            if capture.availableDevices.count > 1 || capture.availableAudioDevices.count > 1 {
+            if !capture.availableDevices.isEmpty || !capture.availableAudioDevices.isEmpty {
                 devicePicker
                 Divider().frame(height: 16)
             }
